@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 function Navbar() {
   return (
     <div className="flex justify-between items-center p-4 bg-blue-600 text-white">
-      {/* Logo Section */}
+      {/* Logo Section m */}
       <div className="text-2xl font-semibold">
         In-Window-Store
       </div>
